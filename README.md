@@ -1,2 +1,12 @@
 # IASC-2P02-TeamPresentations
-Shared repository for IASC 2P02 team presentation project. Each team is assigned a different branch.
+Shared repository for IASC 2P02 team presentations.
+
+## **MAKE SURE YOU ARE WORKING ON THE RIGHT BRANCH**
+
+# Project
+
+# Project URL
+
+# Notes
+
+Notes go here.
