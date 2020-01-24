@@ -3,10 +3,10 @@ Shared repository for IASC 2P02 team presentations.
 
 ## **MAKE SURE YOU ARE WORKING ON THE RIGHT BRANCH**
 
-# Project
+# Project Scalar
 
-# Project URL
+# Project URL https://scalar.me/anvc/
 
-# Notes
+# Notes I don't know
 
 Notes go here.
