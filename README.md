@@ -5,11 +5,11 @@ Shared repository for IASC 2P02 team presentations.
 
 # Project
 
-For Better for Verse
+
 
 # Project URL
 
-https://prosody.lib.virginia.edu/
+
 
 # Notes
 
