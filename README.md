@@ -5,11 +5,11 @@ Shared repository for IASC 2P02 team presentations.
 
 # Project
 
-This is the name of my project.
+For Better or for Verse
 
 # Project URL
 
-URL goes here.
+https://prosody.lib.virginia.edu/
 
 # Notes
 
