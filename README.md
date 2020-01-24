@@ -4,10 +4,10 @@ Shared repository for IASC 2P02 team presentations.
 ## **MAKE SURE YOU ARE WORKING ON THE RIGHT BRANCH**
 
 # Project:
-Hypercites 
-url : https://www.hypercities.com/    
+Hypercites    
 
-# Project URL
+# Project URL:
+https://www.hypercities.com/    
 
 # Notes
 
