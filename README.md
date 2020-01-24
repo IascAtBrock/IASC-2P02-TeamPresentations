@@ -5,7 +5,7 @@ Shared repository for IASC 2P02 team presentations.
 
 # Project
 
-For Better or for Verse
+For Better for Verse
 
 # Project URL
 
