@@ -15,6 +15,7 @@ What type of meter the poem employs
 It is authored by Herbert Tucker
 John C. Coleman (A Professor of English) is also mentioned
 ## How is it funded?
+He used a Teaching and Technology grant to hire programmers to set it up, and he has received help from graduate research assistants and Alderman Library's Scholars' Lab.
 ## Where is it located?
 University of Virginia, Department of English
 ## Which field is it situated in?  Is it a mapping environment, digital repository, a text analysis tool, etc?
