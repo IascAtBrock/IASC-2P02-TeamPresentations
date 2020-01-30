@@ -1,2 +1,6 @@
 Prism is a web tool designed with the purpose of crowdsourcing interpretation. It aims to find the general opinion in a paricular written 
 work by asking users to highlight sections of the work according to different categories called "facets"
+
+For many written works the intention of the writer and the take away value of the audience can be drastically different. Prism seeks to
+narrow this gap using crowdsourcing and "facets" to highlight what percentage of a writing aligns with the writers views and what are 
+irrelevant
