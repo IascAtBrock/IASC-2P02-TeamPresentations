@@ -6,3 +6,13 @@ narrow this gap using crowdsourcing and "facets" to highlight what percentage of
 irrelevant
 
 the platform is catered for both academic and non-academic purpose 
+
+Main features:
+  Create: You can add your own or other written works to prism to get a general subjective interpretation of your work.
+          For this you need the text, upto three "facets", title of the text, author of the text publication date, and the language of 
+          the text. You may also add a brief description of the text. Prism offers an unlisted option while adding the work. This removes
+          your work from searches limiting the number of people having acced to your prism. Prism also needs you to specify the license 
+          of the work your turning into a "Prism" 
+  Play: In the play section you can browse the various prisms added to the platform. To contribute select a Prism of your liking and begin
+        highlighting according to the facets stated by the creator. To complete click "Save highlights" and you will be shown the texts
+        general interpretaion by the platforms crowd.
