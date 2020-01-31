@@ -1,0 +1,12 @@
+1st Slide
+What is Palladio?
+Palladio is a digital mapping tool which allows users visualize data onto a map.
+Palladio seeks to create a way to map data by designing something with an interface based on humanistic inquiry.
+“But it is the way the visualization failed to help us answer actual research questions that made us realize that we needed become actively engaged in the design of tools.” 
+Visualization tools fail to display effective tellings of historical data/events.
+
+2nd Slide
+Created from July 2013 to June 2016
+Made by humanities students at Stanford using the NEH implementation grant. Its goal to promote excellence in the humanities and show lessons of american history to everyone
+It is a mapping environment along with a data analysis tool which helps to create research based historical interfaces
+It also received a Digging into data grant in collaboration with Electronic Enlightenment Project and the Improvise Project for its layouts a few years in
