@@ -6,18 +6,19 @@ Like a testing system, to see if you are interpreting the meter and rhythm of sp
 ## What argument does the project make?
 It exists to aid users in increasing their reading and comprehension of poetry, improving to that of the poets of old who learned the same tricks in the 14th to the 20th century
 ## What are its main features?  Give an overview of the available features and show how to use the tool.
-Provides extra resources in the form of a Resources tab to specific poems with more to learn
-Can test yourself on the analysis of:
-The stress on words and syllables in the poem
-The feet of each line
-What type of meter the poem employs
+#### Provides extra resources in the form of a Resources tab to specific poems with more to learn
+#### Can test yourself on the analysis of:
+##### The stress on words and syllables in the poem
+##### The feet of each line
+##### The rhyming of the poem
 ## Who works on the project?
-It is authored by Herbert Tucker
+It is authored by Herbert Tucker,
 John C. Coleman (A Professor of English) is also mentioned
 ## How is it funded?
 He used a Teaching and Technology grant to hire programmers to set it up, and he has received help from graduate research assistants and Alderman Library's Scholars' Lab.
 ## Where is it located?
 University of Virginia, Department of English
 ## Which field is it situated in?  Is it a mapping environment, digital repository, a text analysis tool, etc?
-It is a text analysis tool, however it does not allow you to input your own text, and is instead testing you on how well YOU can analyze the text
-It will mark you on what you analyzed correctly, as well as explain problematic interpretations you may have made
+It is a text analysis tool, however it does not allow you to input your own text, and is instead testing you on how well YOU can analyze the text.
+It will mark you on what you analyzed correctly, as well as explain problematic interpretations you may have made. For some of the harder poems it will provide additional
+resources to further explain the use and significance of how the poem was written.
