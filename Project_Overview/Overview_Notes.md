@@ -11,6 +11,7 @@ It exists to aid users in increasing their reading and comprehension of poetry, 
 ##### The stress on words and syllables in the poem
 ##### The feet of each line
 ##### The rhyming of the poem
+##### The meter of the poem
 ## Who works on the project?
 It is authored by Herbert Tucker,
 John C. Coleman (A Professor of English) is also mentioned
