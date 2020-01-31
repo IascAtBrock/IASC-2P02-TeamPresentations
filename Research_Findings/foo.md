@@ -23,6 +23,8 @@ Use the website/tool to create an outcome that explores the different tools and 
 Make sure to label and record your outcomes in the research (this can include doing graphs, using voyant and etc)
 I found a good example of how hypercities are used. Thick Mapping was used to illustrate the history of Filipino town in Los Angeles. Students were able to track their family history using the map. 
 
+![](HyperCities350px.jpg)
+
 https://www.youtube.com/watch?v=V5WlVq6slDE&feature=emb_title
 
 How good was the outcome? 
