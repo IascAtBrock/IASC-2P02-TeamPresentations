@@ -12,13 +12,14 @@ https://www.hypercities.com/
 # Notes
 
 Team Members -  
- Eugene
- Glenson
- Fariha
- Ryan 
- Rup
+ Eugene,
+ Glenson,
+ Fariha,
+ Ryan, 
+ Rup.
 
 We will talk after/during lab to decide who wants to do which parts and when to meet to discuss things about the presentation slides. 
+
 
 Base Question - Ryan and Rup
 - What is Hyper Cities?
@@ -36,6 +37,7 @@ Base Question - Ryan and Rup
 - Where is it located (where is its headquarters)? 
 - Who do you think will benefit from using this website/tool?
 
+
 Research and Finding Questions - Glen and Eugene
 - Use the website/tool to create an outcome that explores the different tools and resources given. 
   - Make sure to label and record your outcomes in the research (this can include doing graphs, using voyant and etc)
@@ -43,6 +45,7 @@ Research and Finding Questions - Glen and Eugene
   - Was the tools efficient? 
   - What would you have changed in the website/tool to better express your outcome? 
   - What did you find most helpful and do you think you might use it in the future? 
+
 
 Theoretical Questions - Fariha
 - Pick a reading that was discussed in class (Only one)
