@@ -47,3 +47,12 @@ Thick mapping is a good tool that I might use in the future to compare how citie
 The prefix “hyper” refers to multiplicity and abundance. More than a physical space, a hypercity is a real city overlaid with information networks that document the past, catalyze the present, and project future possibilities. Hypercities are always under construction.
 
 https://drive.google.com/open?id=1yJ0XBHwCuG3bLaz8GC4rY1sZcqgh6YM4&usp=sharing 
+
+
+
+
+
+Slides For Presentation
+
+Eugene:
+https://docs.google.com/presentation/d/1SBUiR8eH056NrE1A72K6NGf_LAbTeC8sVg6N3V2dShE/edit?usp=sharing
