@@ -1,0 +1,22 @@
+Each of the following lines are 'pages' of the Scalar 'Book' or Website of our presentation. 
+Each will link to the next and backwards as it is a linear presentation.
+The notes in brackets () indicate what template the page will be in.
+The notes in square brackets [] are who will be presenting the sections
+
+Presentation layout:
+Title and group members(Book Splash)----------------------------------------------------------[Jason or Constaan]
+  Introduction to Topic and presentation flow (Table of Contents)
+  Main Use of the program and Features (Media)
+  
+  Who/How/where/Fields of Study (basic, may be more than one page)---------------------------[Jason or Constaan switch]
+
+Section Transition (Splash)------------------------------------------------------------------[Will]
+  Discoveries i.e. the content that other creators did and how they used it (Media)
+  Multimodal Arguments (Timeline/Connections/additional media that Will uses for his arg.)
+  
+  Experience of using Scalar-----------------------------------------------------------------[Josh]
+  Process of making our presentation
+  Results and what we could/would have liked to have done
+  
+  [Devin]
+  
