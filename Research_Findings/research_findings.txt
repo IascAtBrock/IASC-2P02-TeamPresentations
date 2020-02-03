@@ -11,9 +11,20 @@ Speakers notes
 
 An interactive map that allow users to coherently visualize and compare large amount of data in a quick grasp. 
 In our case we analyzed the relationship between natural disasters and death toll
+
+With palladio User are able to switch between different views like Map, Graph, Table, and Gallery to sort and visualize their data according to different dimensions.
+
+For example: would use Map view when needed to compare any coordinates data as data points on a map. 
+Data points on the map can be sized to represent their relative magnitude within their data.
+nodes in Graph view can be scaled to reflect their relative magnitude just like in map view, except it's not on a map
+In Table view, data can be arranged to make customized lists
+In the Gallery view, data can be displayed within a grid setting for quick reference, data can also be linked to outside web-based information 
+
+
 There are Limitations to this tool 
 
 This tool is has a clean and organized interface and its helpful for visualizing the bigger picture when comes to handling large amount of data but 
-Hard to understand all of this tools features and pinpoint all your data point as the proper data types, take some time to learn 
-Palladio is not the most efficient because user would have to manually set every data point to the proper data type 
+Hard to understand all of this tools features and pinpoint all your data point as the proper data types, take some time to learn Palladio is not the most efficient because user would have to manually set every data point to the proper data type 
 And the more data point you have the easier is it to make mistakes 
+
+Future use of Palladio?
