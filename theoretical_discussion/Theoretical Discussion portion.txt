@@ -1,0 +1,20 @@
+
+Theoretical discussion
+
+Conclude by discussing how the project relates to concepts in digital scholarship we’ve discussed so far in class. This discussion must make explicit reference to at least one reading from our course. 
+•	How does the reading you choose inform or expand our understanding of the project in question? 
+•	Drucker reading points:
+•	“Capta is “taken” actively while data is assumed to be a “given” able to be recorded and observed” (Drucker, para. 3)
+•	TAPoR uses capta and quantifies it through the usage of colourful dots, creating a visually appealing display while being straight to the point in the fact that at first it is only displaying an amount of the many tools that exist in aid of the digital humanities
+•	“The representation of knowledge is as crucial to its cultural force as any other facet of its production.” (Drucker, para. 5)
+•	Capta being represented through the usage of the dots is fundamentally a science-based approach, but the addition of the colours, the ratings and the hover feature allow the capta to be further explored and examined without the need for additional resources
+•	“But the more profound challenge we face is to accept the ambiguity of knowledge, the fundamentally interpreted condition on which data is constructed, in other words, the realization of my refrain–that all data is capta.” (Drucker, para. 12)
+•	The usage of the digital aspect in digital humanities allows graphs such as {DISASTER GRAPH FROM READING HERE} to be displayed in an easily digestible manner
+•	“But each outbreak was an individual, and their degrees of vulnerability, impact of their illness, effect on the family and loved ones, was specific and particular in ways that a single dot cannot express.” (Drucker, Figure 16)
+•	Each dot on the page is a piece of data that manages to convey a large quantity of data through the usage of the digital components within the digital humanities
+•	How does the project speak to the concepts in digital scholarship we’ve discussed in class?
+•	Tom’s diner: There is no one way for data to be displayed “correctly” we have simply decided on the more quantitative system based on the opinions of those we have deemed more qualified to take care of our data, forfeiting an aspect of our humanity for easily readable, yet humanly detached data. 
+•	Data can be displayed using a combination of both quantitative and humanities approaches.
+•	Discuss how your team used GitHub to collaborate. You will need to reference your GitHub assets in your final portfolio.
+•	Because of the nature of the project we did not use GitHub very much.
+•	We found that there were other tools that were better suited for written collaboration, but see the benefits of using Github for more code or research based collaborations in the future.
