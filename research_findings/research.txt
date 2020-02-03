@@ -1,0 +1,6 @@
+Could you use it to conduct research for future courses?
+ -        TAPoR is basically an index of 1500 digital humanities tools for organizing data, analyzing content, creating data models, disseminating data, capturing data, developing web applications and visualizing data.
+-        Because TAPoR is a vast library of tools and possibly the largest amassed until date, it could be argued that TAPoR is the most suitable starting point for any research project. It’s vast library of documented tools, indexed according to use with tools in overlapping categories taken into consideration.
+-        I would even argue that TAPoR is a research ­essential; much like a library which serves to gather and index all media and research produced on a subject, for more convenient access at later dates, TAPoR serves to gather tools that may otherwise have been impossible to find through arbitrary web searches.
+Discuss the overall usability of the tool based on your experience.
+-        Most of the site appears to be ‘under construction’. While the links to the tools themselves work, things like reviews and ratings of the tools appear to be missing or non-functional. While a lot of work can certainly be done with it, the tool is still rough around the edges and still in need of further refinement.
