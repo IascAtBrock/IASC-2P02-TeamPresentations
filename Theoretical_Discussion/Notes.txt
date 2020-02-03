@@ -2,15 +2,13 @@ Class discussion: In class, we talked about how old ways of knowledge are gettin
 
 Three different approaches to digital scholarships:
 1. Using digital tools
-2. How the tool itself structure knowledge (how does it work and utility)
-3. How tools itself structure perception of the world.
+2. How the tool itself structures knowledge (how does it work and utility)
+3. How tools itself structures perception of the world.
 
 The first two have been discussed by my teammates so I am going to focus on the third point. How the tool structures perception of the world. This tool can make you realize how interconnected our world is. For example, if you were to track the coronavirus, you would see a big circle in China, and then see lines branching off to different places around the world because of travelling and spread of the virus. 
 
-Readings Connection: This brings me to space, time and scale. Moretti is thinking of scale in a specific period. With Palladio, the choice is yours and you can focus on a specific time frame (such as the black plague in the 1300s, or the coronavirus epidemic in 2020) and the scale of however big you chose such as a city, a province, a country, multiple countries, the world (like we did), or however you choose to manipulate the tool. 
+Readings Connections: This brings me to space, time and scale. Moretti is thinking of scale in a specific period when looking at genre. With Palladio, the choice is yours and you can focus on a specific time frame (such as the black plague in the 1300s, or the coronavirus epidemic in 2020) and the scale of however big you chose such as connections in a city, a province, a country, multiple countries, the world (like we did), or however you choose to manipulate the tool. All of the information we are comparing could be compared on a graph, but Palladio makes it more pleasing to look at and understand. 
 
-We also talked about and read from Johanna Drucker: who says that all data is capta because they are captured and experienced subjectively and different for every person. For Palladio to work, some data points have to be inputted that is pre-existing capta. Data that has been captured by humans and recorded as history that we can manipulate, experience subjectively, and learn from. 
-
-All the information we are comparing could be compared on a graph, but Palladio makes it more pleasing to look at and understand. 
+We also talked about and read from Johanna Drucker: who says that all data is capta because they are captured and experienced subjectively and different for every person. For Palladio to work, data points have to be inputted that is pre-existing data. Data that has been captured by humans and recorded as history that we can manipulate, experience subjectively, and learn from. Drucker says that “knowledge is constructed, taken, not simply given as a natural representation of pre-existing fact”. This connects back to the fact that Logan had to research information on earthquakes and floods and through this, much was learned through Palladio.
 
 Github: Finally, for this assignment, we were forced to use and get familiar with Github, which proved intuitive. We were able to see real-time contributions and file updates from all our team members in our branch to ensure everyone is on the same page and everything is being done transparently. This also allowed us to help each other out by adding to different folders and editing each other's text. Finally, we had multiple checkpoints to ensure every group member was on track and did what needed to be on an individual and group basis.
