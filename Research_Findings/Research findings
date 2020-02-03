@@ -1,0 +1,19 @@
+- Palladio provides an interactive map that allows users to coherently visualize the relationship between any two dimensions of data.
+- Limitations of this tool?
+- Overall usability
+  - Clean and organized interface
+  - Effective and powerful tool for visualizing different types of data
+  - Hard to understand all it’s features and lacks an effective tutorial
+  - Low efficiency caused by having user manually set every data point 
+  - Prone to errors due to the many variables in play for the tool to accurately pinpoint different data points onto the map
+
+Speakers notes
+
+An interactive map that allow users to coherently visualize and compare large amount of data in a quick grasp. 
+In our case we analyzed the relationship between natural disasters and death toll
+There are Limitations to this tool 
+
+This tool is has a clean and organized interface and its helpful for visualizing the bigger picture when comes to handling large amount of data but 
+Hard to understand all of this tools features and pinpoint all your data point as the proper data types, take some time to learn 
+Palladio is not the most efficient because user would have to manually set every data point to the proper data type 
+And the more data point you have the easier is it to make mistakes 
